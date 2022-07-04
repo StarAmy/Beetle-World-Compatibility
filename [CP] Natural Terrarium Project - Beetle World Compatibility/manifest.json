@@ -10,6 +10,9 @@
    },
    "Dependencies": [
     {
+      "UniqueID": "spacechase0.JsonAssets",
+    },
+    {
       "UniqueID": "RU.JABeetleWorld"
     }
   ]
