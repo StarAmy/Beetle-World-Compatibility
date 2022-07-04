@@ -1,0 +1,32 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+         {
+        "Action": "EditImage",
+         "Target": "LooseSprites/AquariumFish",
+          "FromFile": "assets/beetledecorations.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 480, "Height": 96 }, 
+          "ToArea": { "X": 0, "Y": 5760, "Width": 480, "Height": 96 },
+     },
+    {
+      "Action": "EditData",
+      "Target": "Data/AquariumFish",
+      "Entries": {
+
+        "{{spacechase0.JsonAssets/ObjectId: Allomyrina Dichotoma}}": "2400/crawl/2400/2401 2400/2401 2400/2401 2400",
+        "{{spacechase0.JsonAssets/ObjectId: Dynastes Grantii}}": "2402/crawl/2402/2403 2402/2403 2402/2403 2402",
+        "{{spacechase0.JsonAssets/ObjectId: Dynastes Hercules}}": "2404/crawl/2404/2405 2404/2405 2404/2405 2404",
+        "{{spacechase0.JsonAssets/ObjectId: Dynastes Hercules Lichyi}}": "2406/crawl/2406/2407 2406/2407 2406/2407 2406",
+        "{{spacechase0.JsonAssets/ObjectId: Dynastes Mythica}}": "2408/crawl/2408/2409 2408/2409 2408/2409 2408",
+        "{{spacechase0.JsonAssets/ObjectId: Elephas Beetle}}": "2410/crawl/2410/2411 2410/2411 2410/2411 2410",
+        "{{spacechase0.JsonAssets/ObjectId: Goliath Beetle}}": "2412/crawl/2412/2413 2412/2413 2412/2413 2412",
+        "{{spacechase0.JsonAssets/ObjectId: Mars Beetle}}": "2414/crawl/2414/2415 2414/2415 2414/2415 2414",
+        "{{spacechase0.JsonAssets/ObjectId: Opal Stag}}": "2416/crawl/2416/2417 2416/2417 2416/2417 2416",
+        "{{spacechase0.JsonAssets/ObjectId: Polyphemus Beetle}}": "2418/crawl/2418/2419 2418/2419 2418/2419 2418",
+        "{{spacechase0.JsonAssets/ObjectId: Rainbow Stag}}": "2420/crawl/2420/2421 2420/2421 2420/2421 2420",
+        "{{spacechase0.JsonAssets/ObjectId: Trypoxylus Dichotomus}}": "2422/crawl/2422/2423 2422/2423 2422/2423 2422",
+        "{{spacechase0.JsonAssets/ObjectId: African Flower Beetle}}": "2424/crawl/2424/2425 2424/2425 2424/2425 2424",
+    }
+    },
+   ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "[CP] Natural Terrarium Project - Beetle World Compatibility",
+  "Author": "StarAmy and JoannaGruesom3",
+  "Version": "1.0",
+  "Description": "Adds fish tank animations for JoannaGruesom3's Beetle World beetles. ",
+  "UniqueID": "StarAmy.TankBeetles",
+   "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.20.0"
+   },
+   "Dependencies": [
+    {
+      "UniqueID": "RU.JABeetleWorld"
+    }
+  ]
+}
